@@ -1,0 +1,10 @@
+packpackrat/lib*/
+.Rproj.user
+*.libsvm
+ohsumed.91.json
+*wordlist*
+.Rhistory
+*.Rproj
+int
+software
+packrat/lib*/

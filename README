@@ -1,0 +1,19 @@
+Teaching Text Classification in R.
+
+This directory contains a skeleton project for a general text classification
+pipeline.
+
+The 'data' directory contains json versions of the MEDLINE documents.
+The demo uses a subset of 2000 articles. Please ask me for the json
+versions of the full year for your experiments.
+
+To run the demo:
+library(ProjectTemplate)
+load.project()
+prepare.clml()
+
+# from the command line, go into software/fest and type make.
+# from the command line, go into software/liblinear and type make.
+# from the command line, go into software/libsvm and type make.
+
+demo()
