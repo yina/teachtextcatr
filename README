@@ -7,7 +7,13 @@ The 'data' directory contains json versions of the MEDLINE documents.
 The demo uses a subset of 2000 articles. Please ask me for the json
 versions of the full year for your experiments.
 
+
+
 To run the demo:
+install.packages("packrat")
+install.packages("ProjectTemplate")
+packrat::restore()
+
 library(ProjectTemplate)
 load.project()
 prepare.clml()
