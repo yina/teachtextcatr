@@ -103,8 +103,8 @@ Requires: BradleyTerry2, car, foreach, ggplot2, plyr, reshape2
 
 Package: clml
 Source: source
-Version: 0.1
-Hash: b11ed477d2e9011707a26b7f6c218259
+Version: 0.11
+Hash: bfb5809c852efaf09bbab394edd5116e
 Requires: ROCR, pROC, stringr
 SourcePath: ~/Workspace/mypackages//clml
 
